@@ -1,0 +1,53 @@
+# GRIP-SPARKS-TASK-03
+
+#EDA - Retail
+
+Dataset : http://bit.ly/w-data
+
+The objective of this project is to perform an 'Exploratory Data Analysis' on the dataset 'SampleSuperstore'.
+
+Steps Involved in this EDA
+  1)IMPORTING THE REQUIRED LIBRARIES
+  2)LOADING AND READING THE DATASET
+  3)FEATURE EXPLORATION
+  4)DATA VISUALIZATION
+  5)ANALYSIS USING PAIPLOT OF EACH COLUMN
+  6)HEATMAP OF CORRELATION
+  7)CONCLUSION
+  
+  
+  
+PROJECT CONCLUSION
+1.From the Heat Map,
+ a)The Sales and Profit are moderately correlated.                          
+ b)The Discount and Profit are negatively correlated.              
+ c)The Quantity and Profit are less moderately correlated.
+ 
+2.In the State wise analysis :
+ a)California,New York and Texas were the top 3 states where the Sales was highest.       
+ b)The average number of deals per state was 204.
+ 
+3.In the City wise analysis :
+ a)The top 3 cities where the sales was highest were New York,Los Angeles and Philadelphia.
+ b)The average number of deals per city was 19.
+ 
+4.Lowest the number of deals was highest were the amount of sales.
+ a)Highest amount of Sales = WYOMING11.8%).
+ b)Lowest amount of Sales = DAKOTA(0.8%).
+ 
+5.In State wise profit analysis Vermount had the highest profit and Ohio had the lowest profit.
+
+6.In the Segment wise analysis home-office had the highest profit and sales.
+
+7.In the Category wise analysis,
+ a)Maximum sales and profit was obtained in Technology Industry.
+ b)Minimum sales and profit was obtained in Furniture Industry.
+ 
+8.Similarly,for the Sub-Category wise analysis,
+ a)Binders,Machines and Tables had the highest discount.
+ b)Copiers had the highest profit and sales.
+ 
+9.In Ship Mode wise Analysis sales were high for the items shipped on the same day.
+
+10.Profit is more than that of sales but there are some areas where the profit could be increased by including some external factors.
+
